@@ -24,4 +24,4 @@ Embedding model used in this code is BGE-M3 (https://huggingface.co/BAAI/bge-m3)
 
 
 # Demo
-Short demo: 
+If you need to access a demo video, you can find it [here](https://github.com/Msalehi237/COMS-579-NLP/blob/main/Demo.mp4). 
